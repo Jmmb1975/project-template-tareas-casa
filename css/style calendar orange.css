@@ -1,0 +1,42 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    background-color: rgb(199, 105, 105); 
+    padding: auto;
+}
+tr{
+    width: 5rem;
+    background-color: white;
+    text-align: center;
+    color:rgb(166, 166, 170);
+    font-size: 25px;
+    padding-top: 440px;
+
+}
+th{
+    font-size: 12px;
+    width: 850px;
+    padding: 1.3rem;
+    background-color: rgb(68, 66, 66);
+    color:rgb(166, 166, 170)
+}
+table{
+    margin-top: 2rem;
+    width: 2rem;
+    border-collapse: collapse;
+    font-size: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 440px;
+}
+span{
+    background-color: orangered;
+    color:white;
+    border-radius: 50%;
+    padding: .1rem;
+}
+tr,td{
+    padding-top: 20px;
+    margin-top: 100px;
+}

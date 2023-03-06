@@ -1,0 +1,20 @@
+th{
+    background-color: black;
+    color: rgb(214, 209, 209);
+    padding: 1px;
+}
+table{
+    background-color: gray;
+    text-align: center;
+    width: 90%;
+    height: 170px;
+    border:none;
+    border-collapse: collapse;
+}
+.other-color{
+    background-color: white;
+    padding: 2rem;
+}
+tr{
+    background-color: #ebe6ea;
+}

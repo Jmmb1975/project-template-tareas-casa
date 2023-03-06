@@ -1,0 +1,37 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+#calendar {
+    width: fit-content;
+    height: fit-content;
+    padding: 2%;
+    background-color: rgb(43, 43, 43);
+}
+
+h3 {
+    text-align: left;
+    font-weight: 60;
+    margin: 1%;
+}
+
+table {
+    border-spacing: 15px;
+}
+
+#tabla {
+    width: 35%;
+    height: 30%;
+    padding: 2%
+}
+
+.otro {
+    color: gray;
+}
+
+.hoy {
+    background-color: rgb(8, 119, 209);
+}
+  
+  
